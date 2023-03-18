@@ -1,0 +1,20 @@
+{
+  "name": "iskavya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kav2002/iskavya.git"
+  },
+  "keywords": [],
+  "author": "kavya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kav2002/iskavya/issues"
+  },
+  "homepage": "https://github.com/kav2002/iskavya#readme"
+}
